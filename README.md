@@ -3,8 +3,6 @@ Ezpublish Helpful Commands
 
 @todo make this a bundle
 
-@todo add additional commands to bundle
-
 #Contents
 
 ###moveSubtree
@@ -18,3 +16,7 @@ Ezpublish Helpful Commands
 ###publishNewDraft
 
 5.x command to create and publish a draft. Can be used as a template for make changes, or to republish an object for fun.
+
+###removeLinksFromContentCommand
+
+5.x command to remove all link tags from data_text attributes in the given list of content Ids.
